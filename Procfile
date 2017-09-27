@@ -1,0 +1,1 @@
+web: gunicorn KradApi.wsgi
