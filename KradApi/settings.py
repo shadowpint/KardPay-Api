@@ -120,12 +120,12 @@ OAUTH2_PROVIDER = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'ibmx_ff5bb53de65da81',
-        'HOST': 'us-cdbr-sl-dfw-01.cleardb.net',
-        'USER': 'b5c90a4912ea0f',
+        'NAME': '',
+        'HOST': '',
+        'USER': '',
         'PORT':'3306',
         # 'PASSWORD': '',
-        'PASSWORD': '4cf822a8',
+        'PASSWORD': '',
     }
 }
 
